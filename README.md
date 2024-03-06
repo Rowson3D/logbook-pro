@@ -7,24 +7,8 @@ As a platform built by pilots, for pilots, this is meant to be an open-source, a
 # Getting started
 
 ## Cloning the repository
-```git clone https://github.com/Rowson3D/logbook-pro.git```
-
-## Installing Node.js / npm / npx
-
-https://nodejs.org/en
-
-Verify the versions of ```npm``` ```npx``` ```node```:
-
 ```
-npm --version
-```
-
-```
-npx --version
-```
-
-```
-node --version
+git clone https://github.com/Rowson3D/logbook-pro.git
 ```
 
 ## Installing Vite
