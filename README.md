@@ -1,3 +1,4 @@
+```
 # Logbook-Pro
 [Placeholder product page]
 
@@ -7,25 +8,21 @@ As a platform built by pilots, for pilots, this is meant to be an open-source, a
 ## Getting started
 
 ### Cloning the repository
-```
+```bash
 git clone https://github.com/Rowson3D/logbook-pro.git
 ```
 
-### Installing Vite
-
-https://vitejs.dev/guide/
+For more information, visit [Vite.js Guide](https://vitejs.dev/guide).
 
 ### Run Locally
 
 1. **Install Dependencies**: Make sure you have Node.js and npm installed. Then, navigate to your project directory and run:
-
-    ```
+    ```bash
     npm install
     ```
 
 2. **Start Development Server**: Run the following command to start the development server:
-
-    ```
+    ```bash
     npm start
     ```
 
@@ -36,7 +33,6 @@ https://vitejs.dev/guide/
 - **Browser Developer Tools**: Use your browser's developer tools (e.g., Chrome DevTools) to inspect elements, debug JavaScript, and monitor network activity.
 
 - **React Developer Tools**: Install the React Developer Tools browser extension to debug React components, inspect component hierarchies, and track component state.
-
 
 # The Future
 
@@ -131,9 +127,6 @@ Contributing guidelines etc will be available as the project matures.
 ## Licenses
 This project is licensed under the following:
 1. **GNU General Public License**
-- Because we believe open source is the future, the user is free to run, study, share, and modify the software.
-- All assets are publicly available and accessible through the software.
-
-
-
-
+   - Because we believe open source is the future, the user is free to run, study, share, and modify the software.
+   - All assets are publicly available and accessible through the software.
+```
