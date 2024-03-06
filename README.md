@@ -94,6 +94,19 @@ The objective of this brainstorming session is to outline the key features and t
 7. **Deployment and Maintenance:**
    - Deploy the application and plan for regular maintenance and updates.
 
-## Contributors
-- [Jarrod Rowson](https://github.com/Rowson3D)
+## Contributing
+Contributors are welcome!
+
+If you encounter a bug, please open an issue.
+
+Contributing guidelines etc will be available as the project matures.
+
+## Licenses
+This project is licensed under the following:
+1. **GNU General Public License**
+- Because we believe open source is the future, the user is free to run, study, share, and modify the software.
+- All assets are publicly available and accessible through the software.
+
+
+
 
