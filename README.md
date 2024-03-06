@@ -1,4 +1,3 @@
-```
 # Logbook-Pro
 [Placeholder product page]
 
@@ -129,4 +128,4 @@ This project is licensed under the following:
 1. **GNU General Public License**
    - Because we believe open source is the future, the user is free to run, study, share, and modify the software.
    - All assets are publicly available and accessible through the software.
-```
+
