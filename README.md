@@ -14,9 +14,9 @@ As a platform built by pilots, for pilots, this is meant to be an open-source, a
 https://nodejs.org/en
 
 Verify the version:
-``` npm --version
-npx --version
-node --version ```
+```npm --version```
+```npx --version```
+```node --version```
 
 ## Installing Vite
 
