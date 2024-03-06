@@ -1,6 +1,15 @@
-# Installing Vite
+# Logbook-Pro
+[Placeholder product page]
 
-(https://vitejs.dev/guide/)
+## Goal
+As a platform built by pilots, for pilots, this is meant to be an open-source, accessible application that will allow anyone in need of an electronic logbook application to log flight hours, produce reports, maintain airplanes, and manage maintenance logs.
+
+
+## Installing Vite
+
+https://vitejs.dev/guide/
+
+## 
 
 # Pilot's Logbook Application Brainstorming
 
