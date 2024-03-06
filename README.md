@@ -4,18 +4,16 @@
 ## Goal
 As a platform built by pilots, for pilots, this is meant to be an open-source, accessible application that will allow anyone in need of an electronic logbook application to log flight hours, produce reports, maintain airplanes, and manage maintenance logs.
 
-# Getting started
+## Getting started
 
-## Cloning the repository
+### Cloning the repository
 ```
 git clone https://github.com/Rowson3D/logbook-pro.git
 ```
 
-## Installing Vite
+### Installing Vite
 
 https://vitejs.dev/guide/
-
-## Running and Debugging React
 
 ### Run Locally
 
