@@ -13,7 +13,8 @@ As a platform built by pilots, for pilots, this is meant to be an open-source, a
 
 https://nodejs.org/en
 
-Verify the version:
+Verify the versions of ```npm``` ```npx``` ```node```:
+
 ```npm --version```
 
 ```npx --version```
