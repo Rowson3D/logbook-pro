@@ -15,15 +15,46 @@ https://nodejs.org/en
 
 Verify the versions of ```npm``` ```npx``` ```node```:
 
-```npm --version```
+```
+npm --version
+```
 
-```npx --version```
+```
+npx --version
+```
 
-```node --version```
+```
+node --version
+```
 
 ## Installing Vite
 
 https://vitejs.dev/guide/
+
+## Running and Debugging React
+
+### Run Locally
+
+1. **Install Dependencies**: Make sure you have Node.js and npm installed. Then, navigate to your project directory and run:
+
+    ```
+    npm install
+    ```
+
+2. **Start Development Server**: Run the following command to start the development server:
+
+    ```
+    npm start
+    ```
+
+3. **Open Browser**: Your React app will automatically open in your default web browser.
+
+### Debugging
+
+- **Browser Developer Tools**: Use your browser's developer tools (e.g., Chrome DevTools) to inspect elements, debug JavaScript, and monitor network activity.
+
+- **React Developer Tools**: Install the React Developer Tools browser extension to debug React components, inspect component hierarchies, and track component state.
+
 
 # The Future
 
