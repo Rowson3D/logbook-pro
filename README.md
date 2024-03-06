@@ -4,17 +4,28 @@
 ## Goal
 As a platform built by pilots, for pilots, this is meant to be an open-source, accessible application that will allow anyone in need of an electronic logbook application to log flight hours, produce reports, maintain airplanes, and manage maintenance logs.
 
+# Getting started
+
+## Cloning the repository
+```git clone https://github.com/Rowson3D/logbook-pro.git```
+
+## Installing Node.js / npm / npx
+
+https://nodejs.org/en
+
+Verify the version:
+``` npm --version
+npx --version
+node --version ```
 
 ## Installing Vite
 
 https://vitejs.dev/guide/
 
-## 
-
-# Pilot's Logbook Application Brainstorming
+# The Future
 
 ## Objective
-The objective of this brainstorming session is to outline the key features and technical considerations for developing a pilot's logbook application.
+The objective of the following is to outline the potential opportunities and/or features that are planned to be designed into the software.
 
 ## Features
 1. **Flight Logging:**
