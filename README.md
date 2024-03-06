@@ -15,7 +15,9 @@ https://nodejs.org/en
 
 Verify the version:
 ```npm --version```
+
 ```npx --version```
+
 ```node --version```
 
 ## Installing Vite
