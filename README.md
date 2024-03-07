@@ -89,7 +89,7 @@ git clone https://github.com/Rowson3D/logbook-pro.git
 
 ### Installing Node.JS
 
-## [Learn more about Node.JS!](https://nodejs.org/en)
+### [Learn more about Node.JS!](https://nodejs.org/en)
 
 ```bash 
 # Verify node version
