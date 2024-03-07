@@ -77,9 +77,6 @@ npm run uninstall:cypress     # uninstall cypress and its related plugins and te
 npm run commit                # cli prompt for conventional commit
 ```
 
-# Logbook-Pro
-[Placeholder product page]
-
 ## Goal
 As a platform built by pilots, for pilots, this is meant to be an open-source, accessible application that will allow anyone in need of an electronic logbook application to log flight hours, produce reports, maintain airplanes, and manage maintenance logs.
 
@@ -92,7 +89,7 @@ git clone https://github.com/Rowson3D/logbook-pro.git
 
 ### Installing Node.JS
 
-[Learn more about Node.JS!](https://nodejs.org/en)
+## [Learn more about Node.JS!](https://nodejs.org/en)
 
 ```bash 
 # Verify node version
