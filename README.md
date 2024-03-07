@@ -77,11 +77,6 @@ npm run uninstall:cypress     # uninstall cypress and its related plugins and te
 npm run commit                # cli prompt for conventional commit
 ```
 
-# License
-
-MIT
-
-
 # Logbook-Pro
 [Placeholder product page]
 
@@ -97,7 +92,7 @@ git clone https://github.com/Rowson3D/logbook-pro.git
 
 ### Installing Node.JS
 
-https://nodejs.org/en
+[Learn more about Node.JS!](https://nodejs.org/en)
 
 ```bash 
 # Verify node version
