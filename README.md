@@ -1,4 +1,4 @@
-# Vite React Typescript Template
+# Logbook-Pro Pilot Logging Software
 
 ![Build](https://github.com/R35007/vite-react-typescript/actions/workflows/build.yml/badge.svg) ![Lints](https://github.com/R35007/vite-react-typescript/actions/workflows/lints.yml/badge.svg) ![Tests](https://github.com/R35007/vite-react-typescript/actions/workflows/tests.yml/badge.svg) ![Cypress](https://github.com/R35007/vite-react-typescript/actions/workflows/cypress.yml/badge.svg)
 
@@ -6,8 +6,6 @@
 
 ## [Trying this Online!](https://codesandbox.io/p/github/R35007/vite-react-typescript/main?file=/src/main.tsx)
 
-![image](https://github.com/R35007/vite-react-typescript/assets/23217228/09dfc7f4-bf2f-4b6b-9885-3476099164ff)
-                                                                                                                                             | feature/14/cypress         |
 
 ## Installation
 
